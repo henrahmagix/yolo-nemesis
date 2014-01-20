@@ -12,7 +12,7 @@ So you can go anywhere you want.
 
 ### You have to annoy happy people
 
-The happier they are, the more points you get for successfully annoying them. They have an annoyance tolerance, so some are hard to annoy and you will lose points if you don't annoy them enough. Repeating the same action will have a lesser effect: it's YOLO, after all, not YCLAMAYL <sub>(you can live as much as you like)</sub>.
+The happier they are, the more points you get for successfully annoying them. They have an annoyance tolerance, so some are hard to annoy and you will lose points if you don't annoy them enough. Repeating the same action will have a lesser effect: it's YOLO after all, not YCLAMAYL <sub>(you can live as much as you like)</sub>.
 
 If your points dwindle, you will become irritable, and as a result less likely to annoy people and more likely to lose points.
 
