@@ -30,4 +30,14 @@ If a person isn't moving very much, they will be harder to knock over and annoy 
 
 Some people have objectives. Stop them from completing them to gain ultimate YOLO-mastership.
 
+### Aaaaaaaahaha! Classic [table top manoeuvre](http://www.urbandictionary.com/define.php?term=table%20top&defid=1093639), mate!
+
+You can move things around to your advantage: knock others into them, bounce off them, make someone else destroy them to their chagrin, all for points.
+
+That's all you want, isn't it? PAH! Points! Who gives a shit about points?
+
+You do, because you're a **YOLO Nemesis.**
+
 ## Annoyance is an art form.
+
+<sub>This game does not endorse douchebaggery.</sub>
