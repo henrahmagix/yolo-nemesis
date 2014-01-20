@@ -20,4 +20,6 @@ There is a time limit and a number of points to gain over a number of rounds. Yo
 
 ### But don't be a douchebag
 
-If you're too mean to a group of people in close proximity, they will band together to annoy you and make your mission difficult. People you haven't annoyed may decide to join them. They can steal points from you and end the round early: *annoyance is an art form*.
+If you're too mean to a group of people in close proximity, they will band together to annoy you and make your mission difficult. People you haven't annoyed may decide to join them. They can steal points from you and end the round early.
+
+#### Annoyance is an art form.
