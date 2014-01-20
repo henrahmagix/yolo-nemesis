@@ -6,7 +6,7 @@ You hate people saying YOLO. You hate them so much now you hate the world. You t
 
 A web game, so it's JavaScript.
 
-### It's a small sandbox
+### It's a small city block sandbox
 
 So you can go anywhere you want.
 
@@ -22,4 +22,12 @@ There is a time limit and a number of points to gain over a number of rounds. Yo
 
 If you're too mean to a group of people in close proximity, they will band together to annoy you and make your mission difficult. People you haven't annoyed may decide to join them. They can steal points from you and end the round early.
 
-#### Annoyance is an art form.
+### OW! Why'd you do that?
+
+Annoy people by bumping into them or something they're trying to get. If you disturb their peace, bonus. If they fall over, bonus. If you irreversibly destroy the item they want or have, bonus.
+
+If a person isn't moving very much, they will be harder to knock over and annoy (it's hard to push over someone sitting in a coffee shop chair). If they're running, it will be very easy. The faster you're going, the more likely they will be pushed back. Cascade your actions by knocking people into something or someone else.
+
+Some people have objectives. Stop them from completing them to gain ultimate YOLO-mastership.
+
+## Annoyance is an art form.
