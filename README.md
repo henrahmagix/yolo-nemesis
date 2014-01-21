@@ -24,7 +24,7 @@ If you're too mean to a group of people in close proximity, they will band toget
 
 ### OW! Why'd you do that?
 
-Annoy people by bumping into them or something they're trying to get. If you disturb their peace, bonus. If they fall over, bonus. If you irreversibly destroy the item they want or have, bonus.
+Annoy people by bumping into them or something they're trying to get. If you disturb their peace: bonus. If they fall over: bonus. If you irreversibly destroy the item they want or have: nice one, bonus.
 
 If a person isn't moving very much, they will be harder to knock over and annoy (it's hard to push over someone sitting in a coffee shop chair). If they're running, it will be very easy. The faster you're going, the more likely they will be pushed back. Cascade your actions by knocking people into something or someone else.
 
